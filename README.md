@@ -1,1 +1,1 @@
-"# speech-recognition-e-synthesis" 
+reconhecimento de fala para texto
