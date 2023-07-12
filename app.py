@@ -3,6 +3,7 @@ import keyboard
 import pyttsx3
 import time
 
+
 def listen():
     recognizer = sr.Recognizer()
     with sr.Microphone(device_index=2) as mic:
